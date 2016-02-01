@@ -1,2 +1,2 @@
-# dasl-gantry
-Files for Gantry Control and Precision Agriculture
+# dasl-gantry-manipulator arm
+Files for Gantry Manipulator Arm
